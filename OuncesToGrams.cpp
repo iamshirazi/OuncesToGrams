@@ -16,6 +16,8 @@ using namespace std;
  */
 int main() {
     
+    
+    
     // VARIABLES
     int start = 1;
     double end = 15;        
